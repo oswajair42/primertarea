@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Currículum de Jair Martinez</title>
+    <title>Currículum de Oswaldo Martinez</title>
     <link rel="stylesheet" href="style.css">
     <style>
         body {
@@ -61,7 +61,7 @@
     </nav>
     <section id="perfil">
         <h2>Perfil</h2>
-        <p>Soy Jair Martinez, un profesional con experiencia en desarrollo web y diseño multiplataforma.</p>
+        <p>Soy Oswaldo Martinez, un profesional con experiencia en desarrollo web y diseño multiplataforma.</p>
     </section>
     <section id="experiencia">
         <h2>Experiencia</h2>
@@ -69,7 +69,7 @@
     </section>
     <section id="educacion">
         <h2>Educación</h2>
-        <p>Estudié Ingeniería en Sistemas en la Universidad Tecnológica, donde adquirí conocimientos en programación, bases de datos, y sistemas operativos.</p>
+        <p>Estudié Ingeniería en Sistemas en la UJAT, donde adquirí conocimientos en programación, bases de datos, y sistemas operativos.</p>
     </section>
     <section id="habilidades">
         <h2>Habilidades</h2>
@@ -77,10 +77,10 @@
     </section>
     <section id="contacto">
         <h2>Contacto</h2>
-        <p>Puedes contactarme en <strong>email@ejemplo.com</strong></p>
+        <p>Puedes contactarme en <strong>jairoswaldo16@gmail.com</strong></p>
     </section>
     <footer>
-        <p>&copy; 2025 - Jair Martinez - Todos los derechos reservados</p>
+        <p>&copy; 2025 - Oswaldo Martinez - Todos los derechos reservados</p>
     </footer>
 </body>
 </html>
