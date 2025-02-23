@@ -48,7 +48,7 @@
 </head>
 <body>
     <header>
-        <h1>Currículum de Jair Martinez</h1>
+        <h1>Currículum de Oswaldo Martinez</h1>
     </header>
     <nav>
         <ul>
