@@ -1,12 +1,9 @@
-# primertarea
-pagina web curriculum
-mi primer tarea multiplataforma
 <!DOCTYPE html>
 <html lang="es">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Mi Página Web</title>
+    <title>Currículum de Jair Martinez</title>
     <link rel="stylesheet" href="style.css">
     <style>
         body {
@@ -37,7 +34,6 @@ mi primer tarea multiplataforma
         }
         section {
             padding: 20px;
-            text-align: center;
         }
         footer {
             background: #222;
@@ -52,29 +48,39 @@ mi primer tarea multiplataforma
 </head>
 <body>
     <header>
-        <h1>Bienvenido a Mi Página</h1>
+        <h1>Currículum de Jair Martinez</h1>
     </header>
     <nav>
         <ul>
-            <li><a href="#inicio">Inicio</a></li>
-            <li><a href="#sobre">Sobre</a></li>
+            <li><a href="#perfil">Perfil</a></li>
+            <li><a href="#experiencia">Experiencia</a></li>
+            <li><a href="#educacion">Educación</a></li>
+            <li><a href="#habilidades">Habilidades</a></li>
             <li><a href="#contacto">Contacto</a></li>
         </ul>
     </nav>
-    <section id="inicio">
-        <h2>Inicio</h2>
-        <p>Esta es una página de ejemplo siguiendo buenas prácticas de diseño web.</p>
+    <section id="perfil">
+        <h2>Perfil</h2>
+        <p>Soy Jair Martinez, un profesional con experiencia en desarrollo web y diseño multiplataforma.</p>
     </section>
-    <section id="sobre">
-        <h2>Sobre Nosotros</h2>
-        <p>Información sobre el contenido de la página y su propósito.</p>
+    <section id="experiencia">
+        <h2>Experiencia</h2>
+        <p>He trabajado en varias empresas de tecnología, desempeñándome como desarrollador web y líder de proyectos. Mis roles incluyeron la gestión de equipos, la planificación y ejecución de proyectos, y el desarrollo de aplicaciones web utilizando tecnologías modernas.</p>
+    </section>
+    <section id="educacion">
+        <h2>Educación</h2>
+        <p>Estudié Ingeniería en Sistemas en la Universidad Tecnológica, donde adquirí conocimientos en programación, bases de datos, y sistemas operativos.</p>
+    </section>
+    <section id="habilidades">
+        <h2>Habilidades</h2>
+        <p>Tengo habilidades en HTML, CSS, JavaScript, React, Node.js, y gestión de proyectos. Además, poseo habilidades blandas como liderazgo, trabajo en equipo, y comunicación efectiva.</p>
     </section>
     <section id="contacto">
         <h2>Contacto</h2>
-        <p>Puedes contactarnos en <strong>email@ejemplo.com</strong></p>
+        <p>Puedes contactarme en <strong>email@ejemplo.com</strong></p>
     </section>
     <footer>
-        <p>&copy; 2025 - Todos los derechos reservados</p>
+        <p>&copy; 2025 - Jair Martinez - Todos los derechos reservados</p>
     </footer>
 </body>
 </html>
