@@ -1,6 +1,6 @@
 # primertarea
 pagina web curriculum
-mi primer tarea multi
+mi primer tarea multiplataforma
 <!DOCTYPE html>
 <html lang="es">
 <head>
