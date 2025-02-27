@@ -1,0 +1,115 @@
+/* Estilos generales */
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f7f6;
+    color: #333;
+}
+
+/* Encabezado */
+header {
+    background: linear-gradient(to right, #0d47a1, #1976d2);
+    color: white;
+    text-align: center;
+    padding: 40px 20px;
+    font-size: 26px;
+    font-weight: bold;
+}
+
+/* Menú de navegación */
+nav {
+    background: #0d47a1;
+    padding: 10px 0;
+    text-align: center;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+}
+
+nav ul li {
+    margin: 0 15px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+    padding: 8px 15px;
+    transition: 0.3s ease;
+}
+
+nav ul li a:hover {
+    background: white;
+    color: #0d47a1;
+    border-radius: 5px;
+}
+
+/* Secciones */
+section {
+    max-width: 900px;
+    margin: 40px auto;
+    background: white;
+    padding: 30px;
+    border-radius: 12px;
+    box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.1);
+}
+
+h2 {
+    color: #0d47a1;
+    border-bottom: 3px solid #1976d2;
+    padding-bottom: 5px;
+    margin-bottom: 20px;
+}
+
+/* Contacto */
+.contacto {
+    text-align: center;
+}
+
+.contacto a {
+    display: inline-block;
+    background: #0d47a1;
+    color: white;
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: bold;
+    padding: 12px 20px;
+    border-radius: 8px;
+    transition: 0.3s ease;
+}
+
+.contacto a:hover {
+    background: #1976d2;
+}
+
+/* Footer */
+footer {
+    background: #0d47a1;
+    color: white;
+    text-align: center;
+    padding: 15px;
+    font-size: 14px;
+    margin-top: 50px;
+}
+
+/* Diseño Responsivo */
+@media (max-width: 768px) {
+    nav ul {
+        flex-direction: column;
+        padding: 10px;
+    }
+    nav ul li {
+        margin: 5px 0;
+    }
+    section {
+        width: 90%;
+        padding: 20px;
+    }
+}
